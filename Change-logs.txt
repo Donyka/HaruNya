@@ -1,4 +1,4 @@
-Haruka Change-logs 2.4
+Haruka Change-logs 2.3.5
 
 [+] .ai [ чат с нейронкой ]
 [+] MoveHelper [ Настройки SlowNess ]
@@ -9,6 +9,8 @@ Haruka Change-logs 2.4
 [-] AutoSwap [ SlowNess ] 
 
 [/] AttackAura [ мод сетинг "Спринт" теперь чекбокс "сохранять спринт" ]
+[/] ChinaHat [ Теперь следует за головой ]
+[/] AttackAura [ TargetEps [ ДУши дальше от цели ] ]
 [/] Hud [ Броня ]
 [/] NameProtect
 [/] WaterMark
