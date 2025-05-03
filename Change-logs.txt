@@ -1,8 +1,10 @@
 Haruka Change-logs 2.4
 
-[/] Оптимизировать [ BetterMinecraft ]
-[/] WorldTweaks [ TimeChanger ]
-[/] Фон загрузки
+[+] PotionCombiner
+[+] Banner
 
-[NEW] Оптимизация ( ну я на это надеюсь )
-[FIX] Крашей
+[/] RandomNickName
+[/] EntityEsp
+[/] ChinaHat
+
+[FIX] отоброжение предметов в руках без CustomModels
