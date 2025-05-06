@@ -2,9 +2,15 @@ Haruka Change-logs 2.4
 
 [+] PotionCombiner
 [+] Banner
+[+] IRC
 
+[-] AutoFarm
+
+[/] Cape ( Теперь Анимирован )
 [/] RandomNickName
 [/] EntityEsp
 [/] ChinaHat
 
-[FIX] отоброжение предметов в руках без CustomModels
+[FIX] Config
+[FIX] Friend
+[FIX] Отоброжение предметов в руках без CustomModels
