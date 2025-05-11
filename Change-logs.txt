@@ -1,12 +1,13 @@
-Haruka Change-logs 2.4  PRE
+Haruka Change-logs 2.4
 
 [+] PotionCombiner
+[+] Speed ( FunTime )
 [+] Banner
 [+] IRC
 
 [-] AutoFarm
 
-[/] BMinecraft ( Улучшеный Таб [ теперь не хавает фпс ] )            //NEW
+[/] BMinecraft ( Улучшеный Таб [ теперь не хавает фпс ] )
 [/] Cape ( Теперь Анимирован )
 [/] RandomNickName
 [/] EntityEsp
@@ -14,5 +15,5 @@ Haruka Change-logs 2.4  PRE
 
 [FIX] Config
 [FIX] Friend
-[FIX] Drop ALL ( теперь нормально закрывает )            //NEW
+[FIX] Drop ALL ( теперь нормально закрывает )
 [FIX] Отоброжение предметов в руках без CustomModels
