@@ -1,13 +1,14 @@
-Haruka Change-logs 2.4.1
+Haruka Change-logs 2.5
 
-[-] .report
+[+] ProjectileHelper
+[+] ServerCrasher
 
-[/] AuctionHelper
-[/] AttackAura
-[/] Cosmetics
-[/] Speed
+[-] ГовноКод
 
-[NEW] Улучшенно соединение с серверной частью ( ну ирс да )
+[/] AttackAura ( Переписана )
+[/] Анимации ( Улучшены )
+[/] AutoSwap ( Улучшен )
+[/] InvMove ( Улучшен )
+[/] InstaRespawn
 
-[FIX] IRC 
-[FIX] CUTE
+[FIX] NoRender ( Броня )
